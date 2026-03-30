@@ -1,8 +1,8 @@
-# Aluno: Seu Nome (github: usuario)
+# Aluno: Victor Silveira Portelinha
 # Grupo: NomeDoGrupo
-# Disciplina: Linguagens Formais e Autômatos
-# Professor: Nome do Professor
-# Instituicao: Nome da Instituicao
+# Disciplina: Construção de interpretadores
+# Professor: Frank de Alcantara
+# Instituicao: Pontifica universidade católica do paraná
 
 import sys
 import json
